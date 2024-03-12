@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.010494bb.css",
+    "main.js": "/static/js/main.e92ffa8d.js",
+    "static/media/iconnew.png": "/static/media/iconnew.527549120775574d11ec.png",
+    "static/media/instai_icon.png": "/static/media/instai_icon.59546d687a3219bc61e0.png",
+    "static/media/pikachu.jpg": "/static/media/pikachu.41b8e261e2cdbfa51b28.jpg",
+    "index.html": "/index.html",
+    "main.010494bb.css.map": "/static/css/main.010494bb.css.map",
+    "main.e92ffa8d.js.map": "/static/js/main.e92ffa8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010494bb.css",
+    "static/js/main.e92ffa8d.js"
+  ]
+}
